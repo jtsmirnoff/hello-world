@@ -1,2 +1,4 @@
 # hello-world
-theres no way im making my first repository in class right now
+#CD5C5C HELLO
+rgb(240, 128, 128) ttest
+failure.
